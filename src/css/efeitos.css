@@ -11,3 +11,16 @@
     color: #c74868;
     transition: 0.2s;
 }
+
+input[type=email]:invalid {
+    color: red;
+}
+
+input[type=email]:valid {
+    color: rgb(38, 121, 0);
+}
+
+*::selection{
+    background-color: #6e1b30;
+    color: white;
+}
