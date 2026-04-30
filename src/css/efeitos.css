@@ -24,3 +24,7 @@ input[type=email]:valid {
     background-color: #6e1b30;
     color: white;
 }
+
+.sn::first-letter {
+    font-size: 65px;
+}
