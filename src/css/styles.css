@@ -163,6 +163,7 @@ button {
     background-color: #6e1b30;
     border-radius: 8px;
     padding: 0.44rem;
+    transition: 0.3s;
 }
 
 #vinhocntt {
